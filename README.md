@@ -190,9 +190,17 @@ EJERCICIO 33
 EJERCICIO 35
 
 
-EJERCICIO 37
+![image](https://user-images.githubusercontent.com/93900233/147900213-46720e33-f949-4350-8e15-1f70d2b4836f.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900219-ecbc23c6-fa07-4a32-9fea-1e5de1d46a3d.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900228-d5fd18d3-3c05-4d3e-ba97-c044938f04ea.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900241-b7797353-4abf-4e4a-9316-665aaaafcbc7.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900251-d1391de3-ce12-4cfa-944c-705fd48a2709.png)
 
 
-EJERCICIO 39
+
 
 
