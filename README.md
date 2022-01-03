@@ -109,8 +109,14 @@ EJERCICIO 17
 
 EJERCICIO 19
 
+NOCE HACE YA QUE TIENE UN AMPLIFICADOR 
 
 EJERCICIO 21
+
+![image](https://user-images.githubusercontent.com/93900233/147898665-0d5796a2-b6c1-47fc-b1b8-79c177e7e375.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898675-b278ad68-66fa-4bd1-b7ee-9bd45209a4b4.png)
+
 
 
 EJERCICIO 23
