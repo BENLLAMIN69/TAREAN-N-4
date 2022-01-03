@@ -164,6 +164,13 @@ EJERCICIO 27
 
 EJERCICIO 29
 
+![image](https://user-images.githubusercontent.com/93900233/147899832-1a0b32c2-d694-41b4-8456-9ab44292206a.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147899846-5beef078-10f3-43cd-bfef-8caa503ce970.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147899859-cb9e67d3-8ce6-4ad7-8d24-34b7c845a343.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147899864-2086fd3a-4417-46eb-abed-771d5ac02664.png)
 
 EJERCICIO 31
 
