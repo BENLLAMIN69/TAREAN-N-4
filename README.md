@@ -20,7 +20,6 @@
 EJERCICIOS 
 CAPITULO 8 
 
-
 EJERCICIO 1
 
 ![image](https://user-images.githubusercontent.com/93900233/147896587-267c8add-ca9c-44e5-be94-d5c11c37efdb.png)
@@ -60,7 +59,6 @@ EJERCICIO 9
 ![image](https://user-images.githubusercontent.com/93900233/147897040-ed5e16da-c655-4f54-a491-09cc5c3aa9e2.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/147897094-8f2bb5b2-ba04-426d-b50d-123e2a7c41c0.png)
-
 
 ![image](https://user-images.githubusercontent.com/93900233/147897107-408b40f3-b555-4fcc-a546-6b31c2bd7751.png)
 
