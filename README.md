@@ -102,7 +102,7 @@ EJERCICIO 17
 
 ![image](https://user-images.githubusercontent.com/93900233/147898392-65da59dd-8a79-4033-b307-bdb0fe5fd05c.png)
 
-![image](https://user-images.githubusercontent.com/93900233/147898399-359851cd-c9f8-45ed-b455-4adeebdcf9a8.png)
+![image](https://user-images.githubusercontent.com/93900233/147898485-7ec7172b-a505-4103-95ad-d7d2bc93f600.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/147898407-f7ccfdec-6804-423d-93f2-ffd111f6c1cd.png)
 
