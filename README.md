@@ -72,10 +72,13 @@ EJERCICIO 11
 
 ![image](https://user-images.githubusercontent.com/93900233/147897255-7e0da081-9f66-4f12-bc35-7f741c2c0bb6.png)
 
-
-
 EJERCICIO 13
 
+![image](https://user-images.githubusercontent.com/93900233/147897357-83ad4e91-47c2-4163-b863-0b5be507892c.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147897391-9936aeb3-ae09-43e2-b443-2e339de27a6a.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147897401-e8465d84-8289-4e9b-becc-a55f0e608bdc.png)
 
 EJERCICIO 15
 
