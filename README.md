@@ -186,6 +186,11 @@ EJERCICIO 31
 
 EJERCICIO 33
 
+![image](https://user-images.githubusercontent.com/93900233/147900329-f1e50846-26a0-4afe-af1d-83b3fe1f6aa6.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900334-0c7ad28d-a021-462f-9f46-afdf77d5295a.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900340-d9bf7b8b-eb7a-4ac4-a45d-d9532e57e10d.png)
 
 EJERCICIO 35
 
