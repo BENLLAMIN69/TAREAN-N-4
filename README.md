@@ -55,6 +55,18 @@ EJERCICIO 7
 
 EJERCICIO 9
 
+![image](https://user-images.githubusercontent.com/93900233/147897005-2bb2bf12-23da-425b-8d47-0b04f0ddc327.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147897040-ed5e16da-c655-4f54-a491-09cc5c3aa9e2.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147897094-8f2bb5b2-ba04-426d-b50d-123e2a7c41c0.png)
+
+
+![image](https://user-images.githubusercontent.com/93900233/147897107-408b40f3-b555-4fcc-a546-6b31c2bd7751.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147897130-833cfc17-2d30-40cb-93c8-d942992366a5.png)
+
+
 
 EJERCICIO 11
 
