@@ -82,6 +82,18 @@ EJERCICIO 13
 
 EJERCICIO 15
 
+![image](https://user-images.githubusercontent.com/93900233/147897447-6ec1b5de-7ffb-43b9-9362-3c3166cf3cf6.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147897460-9bc99403-5b9e-410a-97d1-85ee3c328880.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898195-7481f2ba-eef8-42c8-b9fa-97c372b8140e.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898206-ecfaa724-f9bd-450f-9e6b-e04c652e0c5c.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898225-c031a21d-d3f2-4ae1-ba77-edba35a52e07.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898231-b319fdc9-77a0-4d56-8c1c-c0060fe69731.png)
+
 
 EJERCICIO 17
 
