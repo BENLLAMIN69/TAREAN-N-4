@@ -23,6 +23,7 @@ CAPITULO 8
 
 EJERCICIO 1
 
+![image](https://user-images.githubusercontent.com/93900233/147896587-267c8add-ca9c-44e5-be94-d5c11c37efdb.png)
 
 EJERCICIO 3
 
