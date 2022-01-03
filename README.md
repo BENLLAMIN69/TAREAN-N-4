@@ -94,8 +94,19 @@ EJERCICIO 15
 
 ![image](https://user-images.githubusercontent.com/93900233/147898231-b319fdc9-77a0-4d56-8c1c-c0060fe69731.png)
 
-
 EJERCICIO 17
+
+![image](https://user-images.githubusercontent.com/93900233/147898370-e7bc12d1-9c6b-4173-b530-301202517bad.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898385-1e30f577-a1f8-4def-8a52-c78150823f2b.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898392-65da59dd-8a79-4033-b307-bdb0fe5fd05c.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898399-359851cd-c9f8-45ed-b455-4adeebdcf9a8.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898407-f7ccfdec-6804-423d-93f2-ffd111f6c1cd.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147898444-5cd2dd3c-2681-4bb4-97fb-6c8cf5c1719b.png)
 
 
 EJERCICIO 19
