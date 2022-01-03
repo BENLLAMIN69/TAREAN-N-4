@@ -66,9 +66,12 @@ EJERCICIO 9
 
 ![image](https://user-images.githubusercontent.com/93900233/147897130-833cfc17-2d30-40cb-93c8-d942992366a5.png)
 
-
-
 EJERCICIO 11
+
+![image](https://user-images.githubusercontent.com/93900233/147897224-627f091d-ad37-4063-b177-ca459333b155.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147897255-7e0da081-9f66-4f12-bc35-7f741c2c0bb6.png)
+
 
 
 EJERCICIO 13
