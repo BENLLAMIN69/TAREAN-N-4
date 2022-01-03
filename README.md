@@ -174,6 +174,15 @@ EJERCICIO 29
 
 EJERCICIO 31
 
+![image](https://user-images.githubusercontent.com/93900233/147900014-a4661fe2-0948-4560-8941-e3d524981215.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900027-54037d89-46a5-4af6-b78d-41bac23484e5.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900043-74f7fb5b-0d9c-4892-8ebf-4499b9542173.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900073-a5dfc611-6f98-4076-8be1-a14a69d9a973.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147900079-c4aca5db-9df7-4c36-8ff2-e7a5958ce07f.png)
 
 EJERCICIO 33
 
