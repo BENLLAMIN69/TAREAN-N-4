@@ -1,4 +1,15 @@
 # TAREA-N-4
+# OBJETIVOS
+Objetivo General
+
+- Explicar conceptos relacionados al tema de circuitos en serie-paralelo con los algunos teoremas y sus conversiones, por medio de un informe académico que incluya material de estudio en mapas mentales y resolución de ejercicios, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
+
+Objetivos Específicos
+
+1. Identificar los circuitos en serie-paralelo que se presenten.
+2. Aplicar teoremas los ciales facilten la resolución y compresión del tema
+3. Relacionar el marco teórico con los ejercicios prácticos
+
 # Marco Teórico
 # UNIDAD 7
 # Circuito en serie-paralelo
@@ -203,7 +214,13 @@ EJERCICIO 35
 
 ![image](https://user-images.githubusercontent.com/93900233/147900251-d1391de3-ce12-4cfa-944c-705fd48a2709.png)
 
+# VIDEO
 
+# CONCLUSIONES
+
+
+# BIBLIOGRAFÍA
+- Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
 
 
 
