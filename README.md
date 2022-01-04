@@ -28,6 +28,8 @@ Objetivos Específicos
 ![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/8.3.png)
 ![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/8.4.1.png)
 ![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/8.5.2.png)
+![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/Teorema%20de%20Thevenin%202.png)
+![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/png.png)
 EJERCICIOS 
 CAPITULO 8 
 
