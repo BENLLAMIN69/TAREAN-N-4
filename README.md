@@ -216,6 +216,8 @@ EJERCICIO 35
 
 # VIDEO
 
+https://youtu.be/7CWwH74crXE
+
 # CONCLUSIONES
 
 
