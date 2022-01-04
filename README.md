@@ -219,6 +219,9 @@ EJERCICIO 35
 https://youtu.be/7CWwH74crXE
 
 # CONCLUSIONES
+- Los teoremas y las conversiones presentados facilitan el análisis de ciertos tipos de circuitos.
+- Dado a que todos los circuitos eléctricos son controlados por fuentes de voltaje o de corriente, es importante entender cómo funcionan estos elementos.
+- El análisis de circuitos en serie-paralelo requiere de varios conocimientos que se han aprendido durante el semestre ya que en la vida diaria estos circuitos son muy comunes. 
 
 
 # BIBLIOGRAFÍA
