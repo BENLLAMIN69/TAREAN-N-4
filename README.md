@@ -28,24 +28,152 @@ Objetivos Específicos
 ![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/8.3.png)
 ![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/8.4.1.png)
 ![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/8.5.2.png)
-![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/Teorema%20de%20Thevenin%202.png)
-![](https://github.com/BENLLAMIN69/TAREAN-N-4/blob/main/Ima/png.png)
-EJERCICIOS 
-CAPITULO 8 
+# EJERCICIOS
 
-EJERCICIO 1
+# CAPITULO 7 
+
+# EJERCICIO 1
+
+![image](https://user-images.githubusercontent.com/93899422/148012752-f8142892-9dbc-4f85-af59-cb39c14399b8.png)
+
+# EJERCICIO 3
+
+![image](https://user-images.githubusercontent.com/93899422/148012782-3651602a-8e1c-45aa-8bea-b3dd50c992da.png)
+
+# EJERCICIO 5
+
+
+
+# EJERCICIO 7
+
+![image](https://user-images.githubusercontent.com/93899422/148012822-0cd37a9f-a6e2-4cac-b701-557207824def.png)
+
+# EJERCICIO 9
+
+![image](https://user-images.githubusercontent.com/93899422/148012884-6ca6b95f-a068-41b3-bde5-267dfcc60df6.png)
+![image](https://user-images.githubusercontent.com/93899422/148012920-07262b46-c65d-48f0-b364-e22eb395497e.png)
+![image](https://user-images.githubusercontent.com/93899422/148012942-3ab1be54-b0a0-4b67-a5be-d729b7d67f2e.png)
+
+# EJERCICIO 11
+
+![image](https://user-images.githubusercontent.com/93899422/148012953-2b20c81c-af78-4d3c-98cb-e5b661622b82.png)
+![image](https://user-images.githubusercontent.com/93899422/148013012-a533b8f8-613a-43fa-9b2d-123d4d316299.png)
+
+# EJERCICIO 13
+
+![image](https://user-images.githubusercontent.com/93899422/148013095-bc858c0e-199a-4782-a37b-131077532a15.png)
+![image](https://user-images.githubusercontent.com/93899422/148013133-6babcca9-905a-41ac-90fb-c9d4b48b5cb0.png)
+![image](https://user-images.githubusercontent.com/93899422/148013163-83cfd71b-7c69-4790-a47e-383f297e774a.png)
+![image](https://user-images.githubusercontent.com/93899422/148013224-08cc0968-539b-475c-a5e8-b0033f310ab7.png)
+![image](https://user-images.githubusercontent.com/93899422/148013242-cdd4a550-17d1-494e-8e8c-d3c55c99220c.png)
+![image](https://user-images.githubusercontent.com/93899422/148013272-d3dfe3f8-aded-4cb3-b544-ad8623ab9d71.png)
+
+# EJERCICIO 15
+
+![image](https://user-images.githubusercontent.com/93899422/148013336-23ed5ab7-e794-4e63-bb17-2199d5602aad.png)
+![image](https://user-images.githubusercontent.com/93899422/148013372-2f87b5a3-cde2-402b-81d7-8edee7e23fe3.png)
+![image](https://user-images.githubusercontent.com/93899422/148013420-651088f5-79c2-433d-ae75-e66b7d978838.png)
+
+# EJERCICIO 17
+
+![image](https://user-images.githubusercontent.com/93899422/148013499-3844676a-4f83-413b-9bf2-eb0ab1214532.png)
+
+# EJERCICIO 19
+
+![image](https://user-images.githubusercontent.com/93899422/148013550-bdeb326b-9f86-4965-b3b4-1d9bdead14e8.png)
+
+# EJERCICIO 21
+
+![image](https://user-images.githubusercontent.com/93899422/148013714-d762fe61-10a9-4c39-bbcf-a26c0aca2f8a.png)
+![image](https://user-images.githubusercontent.com/93899422/148013764-353326ef-8238-4344-ac5a-79737ec396f1.png)
+![image](https://user-images.githubusercontent.com/93899422/148013804-bfb1f2ee-f303-4d31-93b6-91ae93b31962.png)
+
+# EJERCICIO 23
+
+![image](https://user-images.githubusercontent.com/93899422/148013861-286588b3-aa7a-4c27-9cde-73fd638f79bd.png)
+
+# EJERCICIO 25
+
+![image](https://user-images.githubusercontent.com/93899422/148013898-16c670cc-99ab-40f8-86e3-bf614604b3ad.png)
+
+# EJERCICIO 27
+
+![image](https://user-images.githubusercontent.com/93899422/148013962-46b337b1-190e-4c8f-91f2-dc1e1e4b0192.png)
+![image](https://user-images.githubusercontent.com/93899422/148014084-6ce07068-565e-4ed8-b2fa-1b5c67cdaa99.png)
+![image](https://user-images.githubusercontent.com/93899422/148014114-44285ec6-9b9a-46c6-8b47-8d9537766159.png)
+
+# EJERCICIO 29
+
+![image](https://user-images.githubusercontent.com/93899422/148014231-57cad1ff-4360-4a79-88e7-7d16716d7aec.png)
+
+# EJERCICIO 31
+
+![image](https://user-images.githubusercontent.com/93899422/148014330-e642c58d-66c7-4972-908c-aac0e85cd04a.png)
+![image](https://user-images.githubusercontent.com/93899422/148014354-7507b74a-8b00-4810-a8fd-92027207db36.png)
+
+# EJERCICIO 33
+
+![image](https://user-images.githubusercontent.com/93899422/148014490-bd8e91ff-e017-474b-b95c-4cc5717b2116.png)
+![image](https://user-images.githubusercontent.com/93899422/148014528-151bb6af-8c4c-479b-b171-5156a55ecab1.png)
+![image](https://user-images.githubusercontent.com/93899422/148014547-cf91bad4-344d-4b20-bc2d-a8ee511dee0a.png)
+
+# EJERCICIO 35
+
+![image](https://user-images.githubusercontent.com/93899422/148014726-df657e20-d298-4b75-b8d1-0c8338a59e2b.png)
+
+# EJERCICIO 37
+
+![image](https://user-images.githubusercontent.com/93899422/148014788-c7c6aa97-09ef-4c90-9203-7505e13815b5.png)
+
+# EJERCICIO 39
+
+![image](https://user-images.githubusercontent.com/93899422/148014861-c7c4f4a0-d08b-4db9-9bc7-ff8bce030b0a.png)
+![image](https://user-images.githubusercontent.com/93899422/148015080-5eb70ca8-c993-4f72-a8a5-eb281afeaa25.png)
+![image](https://user-images.githubusercontent.com/93899422/148015124-d0c3c74d-cb13-46d8-9694-0adde7c88068.png)
+
+# EJERCICIO 41
+
+![image](https://user-images.githubusercontent.com/93899422/148015218-1919518b-29fe-4692-81b0-f5ed08e20040.png)
+
+# EJERCICIO 43
+
+![image](https://user-images.githubusercontent.com/93899422/148015318-e5be55fa-d3e7-4cab-9351-40fecf516072.png)
+
+# EJERCICIO 45
+
+![image](https://user-images.githubusercontent.com/93899422/148015388-e147c1fa-6f9e-4639-9bc3-6cdc1e303281.png)
+
+# EJERCICIO 47
+
+
+
+# EJERCICIO 49
+
+![image](https://user-images.githubusercontent.com/93899422/148015443-067f15da-3f3a-4f0f-9b9e-f1efb5f4cd92.png)
+
+# EJERCICIO 51
+
+![image](https://user-images.githubusercontent.com/93899422/148015517-6559f70a-5ece-405c-a991-c08eb4a79400.png)
+
+# EJERCICIO 53
+
+![image](https://user-images.githubusercontent.com/93899422/148015601-8884fd5c-99c0-41f9-8886-6c500fd5aae5.png)
+
+# CAPITULO 8 
+
+# EJERCICIO 1
 
 ![image](https://user-images.githubusercontent.com/93900233/147896587-267c8add-ca9c-44e5-be94-d5c11c37efdb.png)
 
-EJERCICIO 3
+# EJERCICIO 3
 
 ![image](https://user-images.githubusercontent.com/93900233/147896665-fcd82292-b4c9-4676-abe7-5f04c07b8bd6.png)
 
-EJERCICIO 5
+# EJERCICIO 5
 
 ![image](https://user-images.githubusercontent.com/93900233/147896687-c4849200-f985-4fc4-9497-e2e3256e0b89.png)
 
-EJERCICIO 7
+# EJERCICIO 7
 
 ![image](https://user-images.githubusercontent.com/93900233/147896772-af27621c-7162-43c3-9333-98d17dbceb00.png)
 
@@ -65,7 +193,7 @@ EJERCICIO 7
 ![image](https://user-images.githubusercontent.com/93900233/147896885-5086f339-4b37-4d3e-bc09-d01c3a8d498a.png)
 
 
-EJERCICIO 9
+# EJERCICIO 9
 
 ![image](https://user-images.githubusercontent.com/93900233/147897005-2bb2bf12-23da-425b-8d47-0b04f0ddc327.png)
 
@@ -77,13 +205,13 @@ EJERCICIO 9
 
 ![image](https://user-images.githubusercontent.com/93900233/147897130-833cfc17-2d30-40cb-93c8-d942992366a5.png)
 
-EJERCICIO 11
+# EJERCICIO 11
 
 ![image](https://user-images.githubusercontent.com/93900233/147897224-627f091d-ad37-4063-b177-ca459333b155.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/147897255-7e0da081-9f66-4f12-bc35-7f741c2c0bb6.png)
 
-EJERCICIO 13
+# EJERCICIO 13
 
 ![image](https://user-images.githubusercontent.com/93900233/147897357-83ad4e91-47c2-4163-b863-0b5be507892c.png)
 
@@ -91,7 +219,7 @@ EJERCICIO 13
 
 ![image](https://user-images.githubusercontent.com/93900233/147897401-e8465d84-8289-4e9b-becc-a55f0e608bdc.png)
 
-EJERCICIO 15
+# EJERCICIO 15
 
 ![image](https://user-images.githubusercontent.com/93900233/147897447-6ec1b5de-7ffb-43b9-9362-3c3166cf3cf6.png)
 
@@ -105,7 +233,7 @@ EJERCICIO 15
 
 ![image](https://user-images.githubusercontent.com/93900233/147898231-b319fdc9-77a0-4d56-8c1c-c0060fe69731.png)
 
-EJERCICIO 17
+# EJERCICIO 17
 
 ![image](https://user-images.githubusercontent.com/93900233/147898370-e7bc12d1-9c6b-4173-b530-301202517bad.png)
 
@@ -118,18 +246,18 @@ EJERCICIO 17
 ![image](https://user-images.githubusercontent.com/93900233/147898407-f7ccfdec-6804-423d-93f2-ffd111f6c1cd.png)
 
 
-EJERCICIO 19
+# EJERCICIO 19
 
 NOCE HACE YA QUE TIENE UN AMPLIFICADOR 
 
-EJERCICIO 21
+# EJERCICIO 21
 
 ![image](https://user-images.githubusercontent.com/93900233/147898665-0d5796a2-b6c1-47fc-b1b8-79c177e7e375.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/147898675-b278ad68-66fa-4bd1-b7ee-9bd45209a4b4.png)
 
 
-EJERCICIO 23
+# EJERCICIO 23
 
 
 ![image](https://user-images.githubusercontent.com/93900233/147898813-c153ca23-22af-44bd-b3f5-fae4072b3ced.png)
@@ -157,10 +285,10 @@ EJERCICIO 23
 ![image](https://user-images.githubusercontent.com/93900233/147899020-db742b07-9f00-47f0-a073-a7034aeec686.png)
 
 
-EJERCICIO 25
+# EJERCICIO 25
 
 
-EJERCICIO 27
+# EJERCICIO 27
 
 ![image](https://user-images.githubusercontent.com/93900233/147899664-e900d040-6b1f-4770-8f84-49c74a7c837d.png)
 
@@ -173,7 +301,7 @@ EJERCICIO 27
 ![image](https://user-images.githubusercontent.com/93900233/147899735-a378e022-7bdb-4bd9-a81a-41a81420fbee.png)
 
 
-EJERCICIO 29
+# EJERCICIO 29
 
 ![image](https://user-images.githubusercontent.com/93900233/147899832-1a0b32c2-d694-41b4-8456-9ab44292206a.png)
 
@@ -183,7 +311,7 @@ EJERCICIO 29
 
 ![image](https://user-images.githubusercontent.com/93900233/147899864-2086fd3a-4417-46eb-abed-771d5ac02664.png)
 
-EJERCICIO 31
+# EJERCICIO 31
 
 ![image](https://user-images.githubusercontent.com/93900233/147900014-a4661fe2-0948-4560-8941-e3d524981215.png)
 
@@ -195,7 +323,7 @@ EJERCICIO 31
 
 ![image](https://user-images.githubusercontent.com/93900233/147900079-c4aca5db-9df7-4c36-8ff2-e7a5958ce07f.png)
 
-EJERCICIO 33
+# EJERCICIO 33
 
 ![image](https://user-images.githubusercontent.com/93900233/147900329-f1e50846-26a0-4afe-af1d-83b3fe1f6aa6.png)
 
@@ -203,7 +331,7 @@ EJERCICIO 33
 
 ![image](https://user-images.githubusercontent.com/93900233/147900340-d9bf7b8b-eb7a-4ac4-a45d-d9532e57e10d.png)
 
-EJERCICIO 35
+# EJERCICIO 35
 
 
 ![image](https://user-images.githubusercontent.com/93900233/147900213-46720e33-f949-4350-8e15-1f70d2b4836f.png)
@@ -221,9 +349,6 @@ EJERCICIO 35
 https://youtu.be/7CWwH74crXE
 
 # CONCLUSIONES
-- Los teoremas y las conversiones presentados facilitan el análisis de ciertos tipos de circuitos.
-- Dado a que todos los circuitos eléctricos son controlados por fuentes de voltaje o de corriente, es importante entender cómo funcionan estos elementos.
-- El análisis de circuitos en serie-paralelo requiere de varios conocimientos que se han aprendido durante el semestre ya que en la vida diaria estos circuitos son muy comunes. 
 
 
 # BIBLIOGRAFÍA
